@@ -1,0 +1,9 @@
+wheel==0.43.0
+setuptools==70.0.0
+# twine==5.0.0
+# build == 1.2.2
+
+py2app==0.28.8
+
+pillow==11.0.0
+

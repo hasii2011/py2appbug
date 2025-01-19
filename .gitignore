@@ -1,0 +1,12 @@
+/shelf/
+/workspace.xml
+.idea/
+__pycache__/
+.DS_Store
+build/
+dist/
+/.eggs/
+/py2appbug.egg-info/
+/pyenv-3.12.8/
+.python-version
+.envrc
